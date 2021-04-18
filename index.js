@@ -8,8 +8,17 @@
         </ul>
     </module-one>
     <module-two>
-        <div>my awesome new module about news</div>
+
+
+
+<div>This is worker div added</div>
+
     </module-two>
+
+    <module-three>
+        <div>my awesome new module about news</div>
+
+    </module-three>
 </body>
 
 </html>
