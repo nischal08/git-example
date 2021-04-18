@@ -9,6 +9,11 @@
             <li>item 5</li>
         </ul>
     </module-one>
+    <module-two>
+
+<div>This is worker div added</div>
+
+    </module-two>
 </body>
 
 </html>
